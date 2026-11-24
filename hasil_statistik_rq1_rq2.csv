@@ -1,0 +1,5 @@
+Metrik/Fase,Median Assisted (jam),Median Non-Assisted (jam),Reduksi (%),U-Statistic,p-value,Signifikan
+time_to_merge_h,2.38,158.41,98.5,0.0,1.0000e+00,Tidak
+at_review_h,1.94,158.4,98.77,0.0,1.0000e+00,Tidak
+at_waiting_h,0.2,0.0,0.0,1.0,1.0000e+00,Tidak
+at_change_h,0.0,0.0,0.0,0.5,1.0000e+00,Tidak
